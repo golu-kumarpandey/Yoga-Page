@@ -1,0 +1,35 @@
+.big-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+   
+  
+}
+h1{
+    text-align: center;
+    color: #323f4b;
+}
+p{
+    color: #253263;
+}
+body{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height: 100%;
+}
+.text{
+    text-align: center;
+}
+ button{
+   
+    font-weight: bold;
+    
+   
+} 
+img{
+    height: 300px;
+}
